@@ -17,7 +17,7 @@
           "url": "https://github.com/pbaizan/Arduino_package_VISIR_Ionosens_Boards/blob/main/packages/VISIR_Ionosens_Boards-1.0.0.zip?raw=true",
           "archiveFileName": "VISIR_Ionosens_Boards-1.0.0.zip",
           "checksum": "SHA-256:d393673bfdd4c86f0d28ecf3e680e8f43e4e39600625b20fd04a087282c5242b",
-          "size": "495616",
+          "size": "492284",
           "boards": [
             {"name": "VISIR Instrument Supply Board 2560 (VISB2560)"},
             {"name": "VISIR Instrument Supply Board 32U4 (VISB32U4)"}
