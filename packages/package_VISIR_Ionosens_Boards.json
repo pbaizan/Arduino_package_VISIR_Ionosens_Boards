@@ -38,7 +38,6 @@
       ],
       "tools": [  
         {
-        {
           "name": "avr-gcc",
           "version": "4.8.1-arduino2",
           "systems": [
