@@ -169,6 +169,8 @@ extern const uint8_t PROGMEM digital_pin_to_port_PGM[];
 // extern const uint8_t PROGMEM digital_pin_to_bit_PGM[];
 extern const uint8_t PROGMEM digital_pin_to_bit_mask_PGM[];
 extern const uint8_t PROGMEM digital_pin_to_timer_PGM[];
+extern const uint8_t PROGMEM relay_num_to_digital_pin[];
+extern const uint8_t PROGMEM gpio_num_to_digital_pin[];
 
 // Get the bit location within the hardware port of the given virtual pin.
 // This comes from the pins_*.c file for the active board configuration.
