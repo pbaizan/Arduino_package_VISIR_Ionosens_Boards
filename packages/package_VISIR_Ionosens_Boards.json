@@ -12,12 +12,12 @@
         {
           "name": "VISIR Ionosens Boards",
           "architecture": "avr",
-          "version": "1.1.0",
+          "version": "1.1.1",
           "category": "Arduino",
-          "url": "https://github.com/pbaizan/Arduino_package_VISIR_Ionosens_Boards/blob/main/packages/VISIR_Ionosens_Boards-1.1.0.zip?raw=true",
-          "archiveFileName": "VISIR_Ionosens_Boards-1.1.0.zip",
-          "checksum": "SHA-256:c74c13da4f3683ab7e9ab487ae92655cf76431032ba9ccabc18ae0979ba59512",
-          "size": "347014",
+          "url": "https://github.com/pbaizan/Arduino_package_VISIR_Ionosens_Boards/blob/main/packages/VISIR_Ionosens_Boards-1.1.1.zip?raw=true",
+          "archiveFileName": "VISIR_Ionosens_Boards-1.1.1.zip",
+          "checksum": "SHA-256:eaa7ce14e82301791c07d635bbfb3a0e1c09f51b3f29157b4ca7f61860a6d852",
+          "size": "347018",
           "boards": [
             {"name": "VISIR Instrument Supply Board 2560 (VISB2560)"},
             {"name": "VISIR Instrument Supply Board 32U4 (VISB32U4)"},
