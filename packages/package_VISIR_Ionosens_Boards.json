@@ -16,7 +16,7 @@
           "category": "Arduino",
           "url": "https://github.com/pbaizan/Arduino_package_VISIR_Ionosens_Boards/blob/main/packages/VISIR_Ionosens_Boards-1.4.0.zip?raw=true",
           "archiveFileName": "VISIR_Ionosens_Boards-1.4.0.zip",
-          "checksum": "SHA-256:947df0a4b903b3b6145de1a4b77697c9b7a818e8a6ddabb911b45755719f5801",
+          "checksum": "SHA-256:d1caf7eccc24243546f5747295abaec273b17a365b1abd6180a33b5596b1bd15",
           "size": "364544 ",
           "boards": [
             {"name": "VISIR Component Transceiver Board 2560 (VCTB2560)"},
