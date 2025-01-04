@@ -17,7 +17,7 @@
           "url": "https://github.com/pbaizan/Arduino_package_VISIR_Ionosens_Boards/blob/main/packages/VISIR_Ionosens_Boards-1.4.0.zip?raw=true",
           "archiveFileName": "VISIR_Ionosens_Boards-1.4.0.zip",
           "checksum": "SHA-256:a4ec27d70189a970ff50d154f401076da4685648f885a48450cc7293e0760d0b",
-          "size": "364544",
+          "size": "362277",
           "boards": [
             {"name": "VISIR Instrument Raspberry Board 2560 (VIRB2560)"},
             {"name": "VISIR Instrument Supply Board 2560 (VISB2560)"},
